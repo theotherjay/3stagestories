@@ -8,7 +8,8 @@
         "80c9013e-36cf-4db5-b63a-a59b1ac68f7a",
         "094cd71c-0cbb-4bd4-838e-d35c4a95ba04",
         "3af3f753-52e1-450e-b7b5-8811d82d506b",
-        "d982fae4-f292-4a3a-af11-6bdfe37ec31c"
+        "d982fae4-f292-4a3a-af11-6bdfe37ec31c",
+        "ca072ce1-219f-4f17-84f3-e92b4dfac792"
     ],
     "filterType": "GMSprite",
     "folderName": "StorySelection",
